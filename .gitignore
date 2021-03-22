@@ -34,4 +34,4 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 #ormcongig.json
-ormcongig.json
+ormconfig.json
